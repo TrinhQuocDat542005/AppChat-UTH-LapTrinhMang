@@ -8,7 +8,10 @@ import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 import uth.edu.appchat.Dtos.CreateGroupForm;
+<<<<<<< HEAD
 import uth.edu.appchat.Models.GroupChat;
+=======
+>>>>>>> d1833f8c76c8649a0ce2d471f8b964799eb37a66
 import uth.edu.appchat.Models.User;
 import uth.edu.appchat.Repositories.UserRepository;
 import uth.edu.appchat.Services.GroupChatService;
